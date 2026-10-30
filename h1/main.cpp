@@ -53,5 +53,8 @@ int main() {
         cout << "Error: " << e.what() << endl;
     }
 
+    cout << endl;   // tyhjä rivi ennen ohjelman loppua
+
     return 0;
+
 }
