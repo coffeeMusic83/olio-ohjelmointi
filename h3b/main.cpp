@@ -12,6 +12,9 @@ int main()
 
     cout << endl;
 
+    // Polymorfinen olio kantaluokan tyyppisen älyosoittimen kautta
+    // Lähde: opettajan materiaali (Polymorfismi luokkien Animal ja Dog välillä);
+    // learncpp.com 25.1 Pointers and references to the base class of derived objects
     unique_ptr<Animal> dog = make_unique<Dog>();
     dog->callOut();
 

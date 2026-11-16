@@ -8,7 +8,7 @@ class Dog : public Animal
 public:
     Dog();
     ~Dog() override;
-    void callOut() override;
+    void callOut() override;  // Lähde: learncpp.com 25.3 The override and final specifiers; peatutor.com #overriding
 };
 
 #endif

@@ -4,6 +4,8 @@
 using namespace std;
 
 // Kantaluokan muodostin kutsutaan alustuslistassa, koska Chef tarvitsee nimen
+// Lähde: learncpp.com 24.4 Constructors and initialization of derived classes;
+// opettajan materiaali (kantaluokan muodostin)
 ItalianChef::ItalianChef(string name)
     : Chef(name)
 {

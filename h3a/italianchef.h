@@ -5,6 +5,7 @@
 #include <string>
 
 // ItalianChef perii Chef-luokan (UML:n kolmionuoli)
+// Lähde: learncpp.com 24.2 Basic inheritance in C++; opettajan materiaali (UML-luokkakaavio)
 class ItalianChef : public Chef
 {
 public:

@@ -14,6 +14,7 @@ public:
 
 protected:
     // protected (# UML-kaaviossa): aliluokka ItalianChef pääsee käsiksi suoraan
+    // Lähde: learncpp.com 24.5 Inheritance and access specifiers
     std::string name;
 };
 
