@@ -13,5 +13,5 @@ Lähteisiin on viitattu myös koodin kommenteissa niissä kohdissa, joissa niit�
 - Learn C++. Chapter 25: Virtual Functions (25.1 Pointers and references to the base class of derived objects,
   25.2 Virtual functions and polymorphism, 25.3 The override and final specifiers, 25.4 Virtual destructors).
   https://www.learncpp.com/ (luettu 16.11.2026)
-- The Cherno: C++-videosarja. YouTube. https://www.youtube.com/playlist?list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb (katsottu 16.11.2026)
+- The Cherno: C++-videosarja. YouTube. https://www.youtube.com/playlist?list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb
 - Claude (Anthropic), tekoälyavustaja: apuna vaiheittaisessa ohjeistuksessa ja virheiden selvittämisessä. (käytetty 16.11.2026)

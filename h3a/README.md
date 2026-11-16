@@ -13,5 +13,5 @@ Lähteisiin on viitattu myös koodin kommenteissa niissä kohdissa, joissa niit�
 - Learn C++. Chapter 24: Inheritance (24.2 Basic inheritance in C++, 24.3 Order of construction of derived classes,
   24.4 Constructors and initialization of derived classes, 24.5 Inheritance and access specifiers).
   https://www.learncpp.com/ (luettu 16.11.2026)
-- The Cherno: C++-videosarja. YouTube. https://www.youtube.com/playlist?list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb (katsottu 16.11.2026)
+- The Cherno: C++-videosarja. YouTube. https://www.youtube.com/playlist?list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb
 - Claude (Anthropic), tekoälyavustaja: apuna koodin rakenteessa ja virheiden selvittämisessä. (käytetty 15.–16.11.2026)
