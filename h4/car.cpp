@@ -29,7 +29,7 @@ void Car::setBrand(string brand) { this->brand = brand; }
 void Car::printDetails()
 {
     cout << "Auto : " << model << " " << brand << endl;
-    cout << "Moottori : " << objEngine.getHorsepower() << " hp, "
+    cout << "Moottori: " << objEngine.getHorsepower() << " hp, "
          << objEngine.getDisplacement() << " L" << endl;
     cout << "Rengas 1:" << objWheel1.getSize() << " tuumaa, " << objWheel1.getType() << endl;
     cout << "Rengas 2:" << objWheel2.getSize() << " tuumaa, " << objWheel2.getType() << endl;
